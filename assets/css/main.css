@@ -127,7 +127,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .btn-common {
-  background-color: ##66c0be;
+  background-color: #66c0be;
   position: relative;
   z-index: 1;
   text-transform: uppercase;
